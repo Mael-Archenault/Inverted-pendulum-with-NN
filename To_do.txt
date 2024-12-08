@@ -1,0 +1,8 @@
+add text for informations, iteration, best score, current score DONE
+add a visualization of score zone DONE (kind of)
+
+
+add a visualization of neural network
+add a way to move epsilon while in the process
+
+Warning, not efficient in the color computing for NN visualization
